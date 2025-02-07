@@ -13,7 +13,7 @@
 ✅ **Clean UI** – Simple, distraction-free interface.  
 
 ## 🎨 Screenshot
-![Live Notepad Preview](https://via.placeholder.com/800x400.png?text=Live+Notepad+Preview)
+![Live Notepad Preview](https://raw.githubusercontent.com/shvirat/live-notepad/refs/heads/main/images/Screenshot.png)
 
 ## 🔧 How to Use
 1. Open the notepad in your browser.
