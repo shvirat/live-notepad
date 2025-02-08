@@ -8,7 +8,7 @@
 
 ✅ **Private & Secure** – No data is stored on servers; it's all in your browser.  
 ✅ **Fast & Lightweight** – Minimalistic and super-fast.  
-✅ **Auto-Save** – Keeps your notes until you clear the cache.  
+✅ **One Click Save** – Keeps your notes until you clear the cache.  
 ✅ **No Sign-Up Required** – Just open and start typing.  
 ✅ **Clean UI** – Simple, distraction-free interface.  
 
@@ -17,17 +17,16 @@
 
 ## 🔧 How to Use
 1. Open the notepad in your browser.
-2. Start typing – no need to save manually!
+2. Start typing – click on save. No need to store locally!
 3. Your notes stay until you clear your browser cache.
 
 ## 🛠️ Installation (For Self-Hosting)
+> Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/shvirat/live-notepad.git
-
-# Open the index.html file in a browser
 ```
-
+> Open the index.html file in a browser.
+   
 ## 📜 License
 This project is licensed under the **MIT License** – feel free to modify and share!  
 
