@@ -35,5 +35,4 @@ This project is licensed under the **MIT License** – feel free to modify and s
 ---
 
 **🔗 Connect with me:**  
-[GitHub](https://github.com/shvirat) | [Twitter](https://twitter.com/ahamvirat) | [Instagram](https://instagram.com/ahamvirat)
-
+[GitHub](https://github.com/shvirat) | [Instagram](https://instagram.com/ahamvirat) | [Personal Website](https://genpixel.great-site.net)
